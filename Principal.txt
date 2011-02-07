@@ -1,0 +1,3 @@
+O conceito de GIT é um pouco diferente do CVS e SVN, pois é um sistema
+distribuido e com muito mais recursos de controle do histórico e de branchs
+de desenvolvimento.
