@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>O homem</title>
+<link rel="stylesheet" type="text/css" href="homem.css" />
+
+<body>
+
+<p>Dormir cedo e acordar cedo faz o homem <span class="benefit">saudavel</span>, <span class="benefit">rico</span>, <span class="benefit">sabio></span>.</p>
+
+</body>
+
+</html>
